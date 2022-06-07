@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500&family=Poppins:wght@200&family=Roboto&display=swap');
+body{
+ background-color: #2e2e2e;
+ color: white;
+}
+
+ul.menu{
+	font-family: 'Plus Jakarta Sans', sans-serif;
+	margin: 0%;
+	background-color: black;
+	list-style: none;
+	font-weight: bold;
+	font-size: 70%;
+	letter-spacing: 2px;
+}
+
+li.menu1{
+	display: inline;
+}
+
+li.menu2{
+	display: inline;
+}
+
+a.menu1{
+	padding-right: 1%;
+	padding-top: 0.9%;
+	padding-bottom: 0.9%;
+	display: inline-block;
+	color: white;
+	text-decoration: none; 
+}
+
+a.menu2{
+	padding: 0.9% 1%;
+	display: inline-block;
+	color: white;
+	text-decoration: none; 
+}
+
+.menu1 a:hover{
+	color: #008000;
+}
+
+.menu2 a:hover{
+	color:#008000;
+}
+
+div.margem{
+	padding-left:15%;
+	padding-right:15%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+td{
+	font-family: 'Poppins';
+	font-size: 80%;
+}
+
+table{
+	width: 100%;
+	padding-left: 5%;
+}
+
+div.cor{
+	background-color: #111111;
+	padding: 5%;
+	border-radius: 30px;
+}
+
+h3{
+	font-size: 90%;
+	font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+div.form{
+	background-color: #242424;
+	padding: 4%;
+	border-radius: 20px;
+}
+
+button{
+	float: right;
+}
+
+p{
+	font-family: 'Plus Jakarta Sans', sans-serif;
+	font-size: 85%;
+}
+
+b{
+	font-family: "poppins";
+}
+
+input{
+	margin right: 10px;
+}
